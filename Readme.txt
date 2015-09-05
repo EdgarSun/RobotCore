@@ -1,0 +1,1 @@
+This repository contains various project solutions which utilize Windows Remote Arduino.
